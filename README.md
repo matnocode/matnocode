@@ -1,4 +1,4 @@
-![Profile Banner]([https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png](https://wallpapercave.com/wp/wp14288453.jpg))
+![Profile Banner](https://wallpapercave.com/wp/wp14288453.jpg)
 
 <!--
 **matnocode/matnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
